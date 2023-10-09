@@ -27,7 +27,6 @@
 <!--Intro start-->
 - 🔭 I’m currently studying on **ITB Stikom Bali**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
   
 - 🎮 I’m currently playing Genshin Impact
 
