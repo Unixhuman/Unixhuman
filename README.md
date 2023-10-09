@@ -1,6 +1,7 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img src=Add-ons/SAO_K.gif width="400" height="auto">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -29,6 +30,8 @@
 - 🔭 I’m currently studying on **ITB Stikom Bali**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+  
+- 🎮 I’m currently playing Genshin Impact
 
 - 📫 Feel free to reach me out **indiraartha24@gmail.com**
 
