@@ -26,7 +26,6 @@
 
 <!--Intro start-->
 - 🔭 I’m currently studying on **ITB Stikom Bali**
-
   
 - 🎮 I’m currently playing Genshin Impact
 
